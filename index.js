@@ -8,9 +8,15 @@ window.addEventListener('load', ()=> {
         counter++;
         e.preventDefault();
 
-        const task = counter+' . '+input.value;
+        const task = counter+'.'+input.value;
         const task_el = document.createElement('div');
-        task_el.classList.add('task');  
+        task_el.classList.add('task'); 
+
+        if(document.getElementById("new-task-input").value.length == 0)
+                {
+                      window.alert("EMPTY! PLEASE ENTER SOME TASK")
+                      return false;
+                }
         
         const task_content_el = document.createElement('div');
         task_content_el.classList.add('content'); 
