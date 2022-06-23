@@ -6,6 +6,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>My CRUD Task List</title>
 	<link rel="stylesheet" href="style.css" />
+	<script type="text/javascript">
+        function empty()
+        {
+          var x;
+          x = document.getElementById("new-task-input").value;
+          if (x == "") 
+           { 
+              alert("Please enter a task");
+			  return false;
+           };
+        }
+    </script>
 </head>
 <body>
 	<header>
