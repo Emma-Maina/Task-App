@@ -1,0 +1,34 @@
+106325 Emma Maina
+assignment
+
+
+
+commit 0b48521d364b40069a6d04dde752d5721a36ee8d (HEAD -> main, origin/main, origin/HEAD)
+Author: Emma <waiyegoemma2017@gmail.com>
+Date:   Thu Jun 23 13:05:31 2022 +0300
+
+    completed index.js and index.html v1
+
+commit 5c40b6fc5b4e4b5f4bd8ad243a581ce2f12a9893
+Author: Emma <waiyegoemma2017@gmail.com>
+Date:   Thu Jun 23 12:32:22 2022 +0300
+
+    remote repo added
+
+commit 54283a030f10e0997e897d587941c491aab4497a
+Author: Emma-Maina <108052506+Emma-Maina@users.noreply.github.com>
+Date:   Thu Jun 23 11:12:10 2022 +0300
+
+    Create index.txt
+
+commit dfea668c9f6765b5d03068666c815d23f91579de
+Author: Emma-Maina <108052506+Emma-Maina@users.noreply.github.com>
+Date:   Thu Jun 23 10:41:59 2022 +0300
+
+    Add files via upload
+
+commit 24292aa3f02b6755f2a994e9ac766a564f0c7cc0
+Author: Emma-Maina <108052506+Emma-Maina@users.noreply.github.com>
+Date:   Thu Jun 23 10:32:36 2022 +0300
+
+    Initial commit
